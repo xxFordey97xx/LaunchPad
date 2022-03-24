@@ -1,0 +1,17 @@
+Algorand Testnet Accounts
+
+Account #1
+Account Address = JDA36M45WSIWP7WQ2PXHUR7Z4KMJIGG2UCLBIAJBLFCTKCCM2JTDYPVVN4
+Account Mnemoic = cup mosquito execute village blade goat dust glory ensure luxury learn voice paper tiger picture list armor twelve gorilla dilemma endless shrug lazy able vital
+
+Account #2
+Account Address = ZLM2ZSPH7B3B6YE4TU42OFBKNMORLX54CJVDFWPTUEBVADBMSII3DXTV3E
+Account Mnemoic = exhaust glue beach wash asthma reunion corn hard student settle joke sure often opinion eye risk lion rabbit cost diamond metal wait undo above raise
+
+Account #3
+Account Address = 2IKTULSMSU3CKTTQFKG5QE7W7JN5TP5UIXYPWEZEVYIT32O3X763YR3UPQ
+Account Mnemoic = tent stand matter slush island thrive walnut loan utility before poverty vendor fox glide equip absorb sell believe cause raven chat adult medal above oak
+
+Account #4
+Account Address = WPOLWHNPXIGH3JAWZAZFEFZ6C2EPHZOSEJSN3TDONXROAC3BEOSYOCTOAE
+Account Mnemoic = ask current trouble upper expire cradle canal luggage unfair garment north reform reward august song robust marriage nose art regret online color census above envelope 
